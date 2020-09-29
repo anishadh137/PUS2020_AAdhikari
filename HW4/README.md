@@ -1,0 +1,3 @@
+This weeks homework centered around extracting data from the US Census Bureau using an unique API and using the Geopandas framework in python to create maps.
+This week we worked on creating maps for Delaware using the ACS 2013 and ACS 2018 data from the Cenus Bureau. Maps were made for the fraction of African American and White population for Delaware for the years 2013 and 2018. For extra credit, I created a map showing the total population count of people under the age of 5 for Delaware for the year of 2018. 
+I worked alone on the project and was responsible for all the coding and data extraction.
